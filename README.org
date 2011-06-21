@@ -1,4 +1,4 @@
 * emacs-color-theme-gnome-3-adwaita.el
 ** gnome 3 hyper fedora alpha adwaita
 #+attr_html: width="50%"
-file:[[./screenshot.png]]
+[[https://github.com/yhvh/color-theme-gnome-3-adwaita/raw/master/screenshot.png]]
