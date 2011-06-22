@@ -1,5 +1,5 @@
 (deftheme adwaita
-  "Created 2011-06-22.")
+  "Theme to fit in with gnome 3 default theme adwaita")
 
 (let ((class '((class color) (min-colors 89))))
   (custom-theme-set-faces
@@ -55,8 +55,8 @@
 
    `(gnus-group-mail-1-empty ((t (:foreground "#00578E"))))
    `(gnus-group-mail-1 ((t (:bold t :foreground "#4F78B5"))))
-   `(gnus-group-mail-3-empty ((t (:foreground "#00578E"))))
-   `(gnus-group-mail-3 ((t (:bold t :foreground "#00BBFF"))))
+   `(gnus-group-mail-2-empty ((t (:foreground "#00578E"))))
+   `(gnus-group-mail-2 ((t (:bold t :foreground "#9CBB43"))))
    `(gnus-group-news-3-empty ((t (:foreground "#00578E"))))
    `(gnus-group-news-3 ((t (:bold t :foreground "#9CBB43"))))
    `(gnus-header-name ((t (:bold t :foreground "#0084C8"))))

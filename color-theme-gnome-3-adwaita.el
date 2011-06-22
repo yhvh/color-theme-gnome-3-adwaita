@@ -76,8 +76,8 @@
 
 	  `(gnus-group-mail-1-empty ((t (:foreground ,fedora-blue-2))))
 	  `(gnus-group-mail-1 ((t (:bold t :foreground ,cool-blue-1))))
-	  `(gnus-group-mail-3-empty ((t (:foreground ,fedora-blue-2))))
-	  `(gnus-group-mail-3 ((t (:bold t :foreground ,fedora-blue-0))))
+	  `(gnus-group-mail-2-empty ((t (:foreground ,fedora-blue-2))))
+	  `(gnus-group-mail-2 ((t (:bold t :foreground ,fedora-green-0))))
 	  `(gnus-group-news-3-empty ((t (:foreground ,fedora-blue-2))))
 	  `(gnus-group-news-3 ((t (:bold t :foreground ,fedora-green-1))))
 	  `(gnus-header-name ((t (:bold t :foreground ,fedora-blue-1))))
