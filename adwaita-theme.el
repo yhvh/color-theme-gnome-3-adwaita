@@ -11,10 +11,8 @@
 
    '(default ((t (:background "#EDEDED" :foreground "#000000"))))
    `(fringe ((t (:background "#EDEDED"))))
-   `(mode-line ((t (:foreground "black" :background "white"))))
-   `(mode-line-inactive ((t (:foreground "#C6C6C6" :background ,"white"))))
-   (set-face-attribute 'mode-line nil :box nil)
-   (set-face-attribute 'mode-line-inactive nil :box nil)
+   `(mode-line ((t (:foreground "black" :background "white" :box nil))))
+   `(mode-line-inactive ((t (:foreground "#C6C6C6" :background ,"white" :box nil))))
    `(minibuffer-prompt ((t (:foreground "#0084C8" :bold t))))
    `(region ((t (:foreground "black" :background "#FEFFBF"))))
    `(dired-header ((t (:bold t :foreground "#0084C8"))))
